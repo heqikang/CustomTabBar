@@ -83,7 +83,7 @@
 		74064C171FBFC6A800DAB1C0 /* UIView+QKExtension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+QKExtension.m"; sourceTree = "<group>"; };
 		74064C191FBFDB9D00DAB1C0 /* NextViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NextViewController.h; sourceTree = "<group>"; };
 		74064C1A1FBFDB9D00DAB1C0 /* NextViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NextViewController.m; sourceTree = "<group>"; };
-		74064C1F1FC00A5D00DAB1C0 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
+		741511A11FC02FFE00010419 /* screenshot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = screenshot.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,7 +134,7 @@
 		74064BC51FBFBCF800DAB1C0 /* CustomTarBar */ = {
 			isa = PBXGroup;
 			children = (
-				74064C1F1FC00A5D00DAB1C0 /* screenshot.png */,
+				741511A11FC02FFE00010419 /* screenshot.gif */,
 				74064C161FBFC6A800DAB1C0 /* UIView+QKExtension.h */,
 				74064C171FBFC6A800DAB1C0 /* UIView+QKExtension.m */,
 				74064C141FBFC5F300DAB1C0 /* QKTabBar.h */,
